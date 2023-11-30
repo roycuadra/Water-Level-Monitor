@@ -1,6 +1,6 @@
 # Water Level Monitoring System
  This is a simple water level monitoring system using a NodeMCU ESP-12E, water level sensor, LED's and Buzzer. The system uses LEDs to indicate different water levels and a buzzer for additional alerts.
-
+![Waterlevelmonitor](p1.jpg)
 ## How It Works
 - The system works by continuously reading the analog value from the water level sensor, which is connected to pin A0. The water level sensor provides varying analog readings based on the water level it is exposed to.
 
