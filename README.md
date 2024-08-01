@@ -12,3 +12,8 @@ Check this out [Video Demonstration](https://www.dropbox.com/scl/fi/8knbag176snb
 
 - The code sets predefined threshold values (130, 180, 220, 235) to categorize different water levels. Depending on the analog reading, the system illuminates different LEDs and activates the buzzer to visually and audibly indicate the current water level.
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
